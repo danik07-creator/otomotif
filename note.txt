@@ -1,0 +1,12 @@
+
+
+admin
+
+username 	: admin
+password	: admin
+
+marketing
+
+username 	: ikasoleha
+password	: ika123
+
